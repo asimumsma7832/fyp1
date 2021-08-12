@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 
+
 class LoginPage extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
@@ -8,7 +9,7 @@ class LoginPage extends StatelessWidget {
         child: Column(
           children: [
             Image.asset(
-              "image/123.png",
+              "image/out.png",
               fit: BoxFit.scaleDown,
             ),
             SizedBox(height: 20.0),
